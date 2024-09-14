@@ -33,7 +33,7 @@ Welcome to the **Pomodoro Timer App**, your go-to tool for focused productivity!
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/your-username/pomodoro-timer.git
+   git clone [https://github.com/your-username/pomodoro-timer.git](https://github.com/santanagabi/pomodoro-app.git)
    ````
 2. Open index.html in your browser.
 
