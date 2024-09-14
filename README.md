@@ -38,12 +38,12 @@ Welcome to the **Pomodoro Timer App**, your go-to tool for focused productivity!
 2. Open index.html in your browser.
 
 ---
-📸 Preview
+## 📸 Preview
 Here's a sneak peek of the final app:
 ![image](https://github.com/user-attachments/assets/d89a34d0-7966-499a-ab36-f3a6e54c2113)
 
 ---
-🌟 Course Inspiration
+## 🌟 Course Inspiration
 This project is part of the JavaScript Course by Codedex, where I’m learning to create interactive web applications from scratch.
 
 
