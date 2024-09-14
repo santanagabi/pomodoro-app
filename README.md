@@ -45,5 +45,5 @@ Here's a sneak peek of the final app:
 ---
 ## 🌟 Course Inspiration
 This project is part of the JavaScript Course by Codedex, where I’m learning to create interactive web applications from scratch.
-
+https://www.codedex.io/javascript
 
