@@ -1,5 +1,7 @@
 # 🌸 Pomodoro Timer App 🌿
 
+![Pomodoro app](https://github.com/user-attachments/assets/484c0450-2baa-4ff0-af2f-6980e740eef8)
+
 Welcome to the **Pomodoro Timer App**, your go-to tool for focused productivity! ⏳ Built with care using **HTML**, **CSS**, and **JavaScript**, this minimalist timer helps you stay on track and organized using the Pomodoro technique.
 
 ---
@@ -36,11 +38,6 @@ Welcome to the **Pomodoro Timer App**, your go-to tool for focused productivity!
    git clone [https://github.com/your-username/pomodoro-timer.git](https://github.com/santanagabi/pomodoro-app.git)
    ````
 2. Open index.html in your browser.
-
----
-## 📸 Preview
-Here's a sneak peek of the final app:
-![image](https://github.com/user-attachments/assets/d89a34d0-7966-499a-ab36-f3a6e54c2113)
 
 ---
 ## 🌟 Course Inspiration
